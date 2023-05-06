@@ -32,3 +32,10 @@ $RECYCLE.BIN/
 .TemporaryItems
 ehthumbs.db
 Thumbs.db
+
+# Script Generated Files
+clang-format
+clang-tidy.txt
+cppcheck/
+cppcheck.xml
+cppclean.txt
